@@ -27,7 +27,7 @@ SECRET_KEY = 'q-av=kjj6cux2kdbwb+=$%j4tk=p06#*1_!&$-8@3en#(jyxh^'
 DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1', '.herokuapp.com']
 
