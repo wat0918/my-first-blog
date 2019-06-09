@@ -1,3 +1,5 @@
+#!/usr/bin/python3.4
+
 from django.shortcuts import render
 
 #def index2(request):
